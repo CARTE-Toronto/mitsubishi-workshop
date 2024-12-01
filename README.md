@@ -15,15 +15,21 @@ Welcome to the Mitsubishi AI Workshop materials repository! This repository cont
 ### Morning Session: 09:00 – 12:00
 - **Lecture:** Foundations of AI and Machine Learning  
   [Slides: Foundations of AI and Machine Learning](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/slides/Day%201%20Lecture%201%20Foundations%20of%20AI%20and%20Machine%20Learning.pdf)
-- **Interactive Lab:** Exploratory Data Analysis (EDA) with Python  
-  [Lab Notebook: Intro to Python](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_1_0_intro_to_python.ipynb)
+- **Interactive Labs:** Exploratory Data Analysis (EDA) with Python  
+  [Lab Notebook: Intro to Python](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_1_0_intro_to_python.ipynb)  
+  [Lab Notebook: Data Cleaning and Processing](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_1_1_data_cleaning_and_processing.ipynb)
 
 ### Afternoon Session: 13:00 – 16:00
 - **Lecture:** Introduction to Neural Networks  
-  [Slides: Neural Networks](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/slides/Day%201%20Lecture%202a%20Neural%20Networks.pdf)  
-  [Slides: Convolutional Neural Networks](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/slides/Day%201%20Lecture%202b%20Convolutional%20Neural%20Networks.pdf)
+  [Slides: Neural Networks](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/slides/Day%201%20Lecture%202%20Neural%20Networks.pdf)
+    -  **Links:**   
+       [3Blue1Brown: But What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUaM2JsdWUxYnJvd24gbmV1cmFsIG5ldHdvcms%3D)  
+       [Gradient Descent Visualizer](https://uclaacm.github.io/gradient-descent-visualiser/#playground)  
+       [TensorFlow Neural Network Playground](https://playground.tensorflow.org
+       )  
+       [CNN Visualization](https://adamharley.com/nn_vis/cnn/2d.html
+       )
 - **Interactive Lab:** Building Machine Learning Models  
-  [Lab Notebook: Data Cleaning and Processing](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_1_1_data_cleaning_and_processing.ipynb)  
   [Lab Notebook: Decision Trees and Neural Networks](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_1_2_decision_trees_and_neural_networks.ipynb)
 
 ---
