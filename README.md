@@ -13,25 +13,43 @@ Welcome to the Mitsubishi AI Workshop materials repository! This repository cont
 ## Day 1: Fundamentals of Machine Learning
 
 ### Morning Session: 09:00 – 12:00
-- **Lecture:** Foundations of AI and Machine Learning  
-  [Slides: Foundations of AI and Machine Learning](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/slides/Day%201%20Lecture%201%20Foundations%20of%20AI%20and%20Machine%20Learning.pdf)
-- **Lecture Recording:** [Link to recording](https://utoronto-my.sharepoint.com/:v:/g/personal/alex_olson_utoronto_ca/EfmzTUjRZ8ZMvuLlVffHixYB1kCF3SGAuW1J6GB9S9W0sQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=E0ijcQ)  
-- **Interactive Labs:** Exploratory Data Analysis (EDA) with Python  
-  [Lab Notebook: Intro to Python](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_1_0_intro_to_python.ipynb)  
-  [Lab Notebook: Data Cleaning and Processing](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_1_1_data_cleaning_and_processing.ipynb)
+
+**Lecture**
+
+| Time | Topic | Speaker      | Slides | Recording |
+|------|-------|--------------|--------|-----------|
+| 09:00 – 10:30 | Foundations of AI and Machine Learning | Alex Olson   | [Slides: Foundations of AI and Machine Learning](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/slides/Day%201%20Lecture%201%20Foundations%20of%20AI%20and%20Machine%20Learning.pdf) | [Link to recording](https://utoronto-my.sharepoint.com/:v:/g/personal/alex_olson_utoronto_ca/EfmzTUjRZ8ZMvuLlVffHixYB1kCF3SGAuW1J6GB9S9W0sQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=E0ijcQ) |
+
+**Interactive Labs**
+
+| Time | Topic | Lab Notebook | Recording | Answered Notebook                                                                                                                                                               | PDF |
+|------|-------|--------------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| 10:30 – 12:00 | Exploratory Data Analysis (EDA) with Python | [Lab Notebook: Intro to Python](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_1_0_intro_to_python.ipynb) | [Link to recording](https://utoronto-my.sharepoint.com/:v:/g/personal/alex_olson_utoronto_ca/Eeba8mrRVAhOiMVsYwOKoaMBB8PS2o24Sv3tdwE91kciSA?e=dBu9n7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | [Answered Notebook: Intro to Python](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs_answered/lab_1_0_intro_to_python_answered.ipynb) | [PDF: Intro to Python](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/labs_answered/lab_1_0_intro_to_python_answered.pdf) |
+| 10:30 – 12:00 | Data Cleaning and Processing | [Lab Notebook: Data Cleaning and Processing](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_1_1_data_cleaning_and_processing.ipynb) | [Link to recording](https://utoronto-my.sharepoint.com/:v:/g/personal/alex_olson_utoronto_ca/Eeba8mrRVAhOiMVsYwOKoaMBB8PS2o24Sv3tdwE91kciSA?e=dBu9n7&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) | [Answered Notebook: Data Cleaning and Processing](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs_answered/lab_1_1_data_cleaning_and_processing_answered.ipynb) | [PDF: Data Cleaning and Processing](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/labs_answered/lab_1_1_data_cleaning_and_processing_answered.pdf) |
+
 
 ### Afternoon Session: 13:00 – 16:00
-- **Lecture:** Introduction to Neural Networks  
-  [Slides: Neural Networks](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/slides/Day%201%20Lecture%202%20Neural%20Networks.pdf)
-    -  **Links:**   
-       [3Blue1Brown: But What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUaM2JsdWUxYnJvd24gbmV1cmFsIG5ldHdvcms%3D)  
-       [Gradient Descent Visualizer](https://uclaacm.github.io/gradient-descent-visualiser/#playground)  
-       [TensorFlow Neural Network Playground](https://playground.tensorflow.org
-       )  
-       [CNN Visualization](https://adamharley.com/nn_vis/cnn/2d.html
-       )
-- **Interactive Lab:** Building Machine Learning Models  
-  [Lab Notebook: Decision Trees and Neural Networks](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_1_2_decision_trees_and_neural_networks.ipynb)
+
+**Lecture**
+
+| Time | Topic | Speaker      | Slides | Recording |
+|------|-------|--------------|--------|-----------|
+| 13:00 – 14:30 | Introduction to Neural Networks | Alex Olson   | [Slides: Neural Networks](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/slides/Day%201%20Lecture%202%20Neural%20Networks.pdf) | |
+
+**Links**
+
+| Topic | Link |
+|-------|------|
+| 3Blue1Brown: But What is a Neural Network? | [Link to video](https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUaM2JsdWUxYnJvd24gbmV1cmFsIG5ldHdvcms%3D) |
+| Gradient Descent Visualizer | [Link to visualizer](https://uclaacm.github.io/gradient-descent-visualiser/#playground) |
+| TensorFlow Neural Network Playground | [Link to playground](https://playground.tensorflow.org) |
+| CNN Visualization | [Link to visualization](https://adamharley.com/nn_vis/cnn/2d.html) |
+
+**Interactive Lab**
+
+| Time | Topic | Lab Notebook | Recording | Answered Notebook                                                                                                                                                               | PDF |
+|------|-------|--------------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| 14:30 – 16:00 | Decision Trees and Neural Networks | [Lab Notebook: Decision Trees and Neural Networks](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_1_2_decision_trees_and_neural_networks.ipynb) | | | | 
 
 ---
 
