@@ -15,6 +15,7 @@ Welcome to the Mitsubishi AI Workshop materials repository! This repository cont
 ### Morning Session: 09:00 – 12:00
 - **Lecture:** Foundations of AI and Machine Learning  
   [Slides: Foundations of AI and Machine Learning](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/slides/Day%201%20Lecture%201%20Foundations%20of%20AI%20and%20Machine%20Learning.pdf)
+- **Lecture Recording:** [Link to recording](https://utoronto-my.sharepoint.com/:v:/g/personal/alex_olson_utoronto_ca/EfmzTUjRZ8ZMvuLlVffHixYB1kCF3SGAuW1J6GB9S9W0sQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=E0ijcQ)  
 - **Interactive Labs:** Exploratory Data Analysis (EDA) with Python  
   [Lab Notebook: Intro to Python](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_1_0_intro_to_python.ipynb)  
   [Lab Notebook: Data Cleaning and Processing](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_1_1_data_cleaning_and_processing.ipynb)
