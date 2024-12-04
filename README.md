@@ -43,7 +43,6 @@ If you have questions, please email Alex: [alex.olson@utoronto.ca](mailto:alex.o
 | Topic | Link |
 |-------|------|
 | 3Blue1Brown: But What is a Neural Network? | [Link to video](https://www.youtube.com/watch?v=aircAruvnKk&pp=ygUaM2JsdWUxYnJvd24gbmV1cmFsIG5ldHdvcms%3D) |
-| Gradient Descent Visualizer | [Link to visualizer](https://uclaacm.github.io/gradient-descent-visualiser/#playground) |
 | TensorFlow Neural Network Playground | [Link to playground](https://playground.tensorflow.org) |
 | CNN Visualization | [Link to visualization](https://adamharley.com/nn_vis/cnn/2d.html) |
 
@@ -100,12 +99,19 @@ If you have questions, please email Alex: [alex.olson@utoronto.ca](mailto:alex.o
 |---------------|-------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 09:00 – 10:00 | Optimization Techniques in Operations | Alex Olson      | [Slides: Optimization](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/slides/Day%203%20Lecture%201%20Optimization.pdf)                                  |
 
+**Links**
+
+| Topic | Link |
+|-------|------|
+| Gradient Descent Visualizer | [Link to visualizer](https://uclaacm.github.io/gradient-descent-visualiser/#playground) |
+
 **Interactive Labs**
 
-| Time          | Topic                         | Lab Notebook                                                                                                                                            | Recording | Answered Notebook | PDF |
-|---------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------------|-----|
-| 10:15 – 12:00 | Supply Chain Optimization     | [Lab Notebook: Optimization](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_3_1a_optimization.ipynb)       |           |                   |     |
-|               | Scheduling                    | [Lab Notebook: Scheduling](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_3_1b_scheduling.ipynb)          |           |                   |     |
+| Time | Topic                         | Lab Notebook                                                                                                                                            | Recording | Answered Notebook | PDF |
+|------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------------|-----|
+| 10:15 – 12:00 | Linear Programming | [Lab Notebook: Linear Programming](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_3_0_linear_programming.ipynb) |           | | |
+|      | Supply Chain Optimization     | [Lab Notebook: Optimization](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_3_1a_optimization.ipynb)       |           |                   |     |
+|      | Scheduling                    | [Lab Notebook: Scheduling](https://colab.research.google.com/github/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/lab_3_1b_scheduling.ipynb)          |           |                   |     |
 
 ---
 
