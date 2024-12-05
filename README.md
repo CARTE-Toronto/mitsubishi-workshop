@@ -131,7 +131,7 @@ Instructions for Your Group:
 3.	Develop Ethical Guidelines: Propose actionable principles and strategies to address the ethical challenges.
 4.	Prepare to Present: Summarize your findings and recommendations to share with the larger group.
 
-[Link to Instructions](https://github.com/labs/Ethical%20AI%20Case%20Studies%20Instructions.pdf)
+[Link to Instructions](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/labs/Ethical%20AI%20Case%20Study%20Discussion.pdf)
 
 **Case Studies**
 
