@@ -119,10 +119,9 @@ If you have questions, please email Alex: [alex.olson@utoronto.ca](mailto:alex.o
 
 **Lecture**
 
-| Time          | Topic                        | Speaker         | Slides                                                                                                                                                           |
-|---------------|------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 13:00 – 14:00 | Natural Language Processing and Large Language Models | Alex Olson      | [Slides: Natural Language Processing](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/slides/Day%203%20Lecture%202a%20Natural%20Language%20Processing.pdf) |
-|               |                              |                 | [Slides: Large Language Models](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/slides/Day%203%20Lecture%202b%20Large%20Language%20Models.pdf)   |
+| Time          | Topic                     | Speaker         | Slides                               |
+|---------------|---------------------------|-----------------|--------------------------------------|
+| 13:00 – 14:00 | Deployment Considerations | Alex Olson      | [Slides: Deployment Considerations](https://github.com/CARTE-Toronto/mitsubishi-workshop/blob/main/slides/Day%203%20Lecture%202%20Deployment%20Considerations.pdf) |
 
 **Interactive Session**
 
